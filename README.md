@@ -19,7 +19,6 @@
         <img align="center" alt="joaovdantas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="joaovdantas-Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
         <img align="center" alt="joaovdantas-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-        <img align="center" alt="joaovdantas-Nextjs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  style="color:white">
         <img align="center" alt="joaovdantas-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
         <img align="center" alt="joaovdantas-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
         <img align="center" alt="joaovdantas-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
