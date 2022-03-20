@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm João Vitor Dantas</h1>
-<h3 align="center">Web Developer</h3>
-
-<p align="left">   
-<img src="https://komarev.com/ghpvc/?username=joaovdantas&label=Profile%20views&color=0e75b6&style=flat" alt="joaovdantas" /> </p>
+<h3 align="center">👨🏻‍💻 &nbsp;Web Developer</h3>
+<p align="center">
+<a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <div align="center">
   <a href="https://github.com/joaovdantas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdantas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/joaovdantas/" target="blank">  
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaovdantas/" height="30" width="40" /></a>
 
-
-<h3 align="left">Technologies & Tools:</h3>
+<h3 align="left"> 🛠 &nbsp;Tech Stack:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
   
 <div style="display: inline_block"><br>
