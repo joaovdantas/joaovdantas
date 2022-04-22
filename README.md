@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Vitor</h1>
-<h3 align="center">Web Developer </h3>
+<h1 align="center">João Vitor</h1>
+<h3 align="center">Desenvolvedor Web </h3>
 <p align="center">
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
@@ -9,7 +9,7 @@
   <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="left"> 🛠 &nbsp;Tech Stack:</h3>
+<h3 align="left">💻 Ferramentas e habilidades</h3>
 <div style="display: inline_block"><br>
         <img align="center" alt="joaovdantas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="joaovdantas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
