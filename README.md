@@ -1,5 +1,5 @@
 <h1 align="center">João Vitor</h1>
-<h3 align="center">Desenvolvedor Web </h3>
+<h3 align="center">Desenvolvedor Front-end</h3>
 <p align="center">
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
@@ -17,7 +17,6 @@
         <img align="center" alt="joaovdantas-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
         <img align="center" alt="joaovdantas-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="joaovdantas-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-        <img align="center" alt="joaovdantas-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> 
         <img align="center" alt="joaovdantas-mySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
  
