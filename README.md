@@ -1,13 +1,13 @@
-<h1 align="center">João Vitor Dantas</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
-<p align="center">
+<h1>João Vitor Dantas 👨🏻‍💻 &nbsp</h1>
+<h3>Desenvolvedor Front-end</h3>
+<p>
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
-<div align="center">
+
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
- ![joaovdantas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dracula)/>
-</div>
+ ![joaovdantas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dracula)
+
 
 <h3 align="left">💻 Ferramentas e habilidades</h3>
 <div style="display: inline_block"><br>
