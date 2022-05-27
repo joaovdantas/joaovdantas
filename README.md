@@ -4,9 +4,9 @@
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
 <div align="center">
-  <a href="https://github.com/joaovdantas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdantas&layout=compact&langs_count=7&theme=dracula"/>
+ <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+ ![joaovdantas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovdantas&show_icons=true&theme=dracula)/>
 </div>
 
 <h3 align="left">💻 Ferramentas e habilidades</h3>
