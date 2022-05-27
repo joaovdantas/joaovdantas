@@ -2,6 +2,8 @@
 <h3>Desenvolvedor Front-end</h3>
 <p>
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+• Desenvolvedor apaixonado por tecnologia e resoluções de problemas, comecei a estudar programação no final de 2021, futuro Fullstack.
 
 
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
