@@ -19,7 +19,6 @@
         <img align="center" alt="joaovdantas-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
           <img align="center" alt="joaovdantas-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
         <img align="center" alt="joaovdantas-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-        <img align="center" alt="joaovdantas-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
         <img align="center" alt="joaovdantas-VScode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
         <img align="center" alt="joaovdantas-mySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" alt="joaovdantas-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
