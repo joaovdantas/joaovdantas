@@ -1,5 +1,5 @@
 <h1>João Vitor Dantas 👨🏻‍💻 &nbsp</h1>
-<h3>Desenvolvedor Front-end</h3>
+
 <p>
 <a href="https://linkedin.com/in/joaovdantas/"><img src="https://img.shields.io/badge/-João%20Vitor%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
