@@ -3,7 +3,7 @@
 <p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-• Desenvolvedor apaixonado por tecnologia e resoluções de problemas, comecei a estudar programação no final de 2021.
+• Conheci a programação de software e acabei me apaixonando pela mesma, desde já venho estudando por conta própria para imigrar nesse novo mundo.
 
 
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
