@@ -3,7 +3,7 @@
 <p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-• Conheci a programação de software e acabei me apaixonando pela mesma, desde já venho estudando por conta própria para imigrar nesse novo mundo.
+• Jovem apaixonado pela área de tecnologia, buscando aprendizado e experiência, sigo realizando cursos por outras plataformas.
 
 
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
