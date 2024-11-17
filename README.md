@@ -2,8 +2,8 @@
 
 <p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-• Jovem apaixonado pela área de tecnologia, buscando aprendizado e experiência, sigo realizando cursos por outras plataformas.
+<h2> 👨🏻‍💻 &nbsp; </h2>
+Realizando projetos academicos para adquirir conhecimento e colocando-os em pratica!
 
 
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
