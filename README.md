@@ -2,7 +2,7 @@
 
 <p>
 
-<h2> 👨🏻‍💻 &nbsp; </h2>
+
 Realizando projetos academicos para adquirir conhecimento e colocando-os em pratica!
 
 
